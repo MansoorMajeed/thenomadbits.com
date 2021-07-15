@@ -1,0 +1,17 @@
+baseURL: http://thenomadbits.com
+languageCode: en-us
+title: TheNomadBits
+theme: PaperMod
+
+params:
+    homeInfoParams:
+        Title: Hello, I'm Mansoor
+        Content: Welcome to my travel blog. This is the place where I am supposed to write about my travel stories
+
+    socialIcons:
+        - name: instagram
+          url: "https://instagram.com/_mansoormajeed"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCFt_y_F4gGTwSOoM5TOyBcQ"
+        - name: github
+          url: "https://github.com/MansoorMajeed"
