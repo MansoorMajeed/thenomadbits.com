@@ -13,8 +13,6 @@ cover:
 ---
 
 
-
-
 If you are in a hurry and want to know the solution instead of reading the whole story, just scroll to the TL;DR section
 
 ## Backstory

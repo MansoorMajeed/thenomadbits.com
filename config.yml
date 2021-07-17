@@ -1,7 +1,8 @@
 baseURL: https://thenomadbits.com
 languageCode: en-us
 title: TheNomadBits
-theme: PaperMod
+theme: [ "PaperMod", "shortcode-gallery" ]
+
 
 params:
     homeInfoParams:
@@ -15,3 +16,19 @@ params:
           url: "https://www.youtube.com/channel/UCFt_y_F4gGTwSOoM5TOyBcQ"
         - name: github
           url: "https://github.com/MansoorMajeed"
+    ShowBreadCrumbs: true
+  
+menu:
+  main:
+  - identifier: photography
+    name: photography
+    url: /photography/
+    weight: 10
+  - identifier: tech
+    name: tech
+    url: https://esc.sh
+    weight: 10
+  - identifier: about
+    name: about
+    url: https://esc.sh/about/
+    weight: 15
