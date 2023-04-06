@@ -1,21 +1,21 @@
 ---
 author: "Mansoor"
 categories: ["travel", "malaysia", "visa", "destinations"]
-date: 2020-02-14T07:44:01Z
+date: 2017-02-14T07:44:01Z
 description: ""
 draft: false
 image: "/images/2020/02/malaysia_converted--1-.jpg"
-url: "malaysian-visa-for-indians-in-2020"
-summary: "Malaysian Visa for Indians in 2020 - Everything you need to know (and more)"
+url: "malaysian-visa-for-indians"
+summary: "Malaysian Visa for Indians - Everything you need to know (and more)"
 tags: ["travel", "malaysia", "visa", "destinations"]
-title: "Malaysian Visa for Indians in 2020"
+title: "Malaysian Visa for Indians"
 cover:
   image: "malaysia.jpeg"
 ---
 
 > If you just want to know about the Visa, feel free to skip to the TL;DR section
 
-My first ever international trip was on 2020 to Indonesia. That went amazing (except the whole [transit Visa](/indians-indonesia-transit-visa-for-kul/) situation, which happened because I didn't have a Malaysian Visa). When it was time for me to head back home from Bali, and I was looking at the flight tickets, almost all of them had a lay over at Kuala Lumpur
+My first ever international trip was to Indonesia. That went amazing (except the whole [transit Visa](/indians-indonesia-transit-visa-for-kul/) situation, which happened because I didn't have a Malaysian Visa). When it was time for me to head back home from Bali, and I was looking at the flight tickets, almost all of them had a lay over at Kuala Lumpur
 
 The new earned wisdom from the  [_amazing_ experience](/indians-indonesia-transit-visa-for-kul/) made me more cautious of booking the cheapest available ticket and I looked for an AirAsia flight that takes care of the transit visa.
 

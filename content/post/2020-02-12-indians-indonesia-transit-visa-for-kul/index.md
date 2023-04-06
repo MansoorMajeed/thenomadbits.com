@@ -1,7 +1,7 @@
 ---
 author: "Mansoor"
 categories: ["visa", "destinations"]
-date: 2020-02-11T22:04:12Z
+date: 2017-02-11T22:04:12Z
 description: ""
 draft: false
 image: "/images/2020/02/20200212_110919-01-01-conv.jpeg"
@@ -17,7 +17,7 @@ If you are in a hurry and want to know the solution instead of reading the whole
 
 ## Backstory
 
-I have been running around in India in my motorcycle for a few years now. But by no means am I a regular international traveller. My first ever international trip was to Indonesia, in 2020. And with that came a lot of surprises.
+I have been running around in India in my motorcycle for a few years now. My first ever international trip was to Indonesia And with that came a lot of surprises.
 
 I booked a flight ticket from Bangalore to Surabaya (I wanted to visit the ever so famous volcano, Mount Bromo - more on that on a future post). Considering how inexperienced I was, I didn't think much at first. As any broke traveller would do, I booked the cheapest flight option from Bangalore to Surabaya. It costed me around 14,000 INR (195 USD) which is  a fairly cheap price.
 
@@ -25,7 +25,7 @@ BLR - KUL (Indigo), KUL - SUB (AirAsia)
 
 My flight is a connecting flight through Kuala Lumpur with a layover at Kuala Lumpur for 3 hours. So far so good.
 
-Comes the day of the trip. Jan 10th, 2020. My flight is at 4am. Since this is my first ever international trip, I didn't want to take any risk and I reached the airport around 12.30am. I had no clue what was waiting for me.
+Comes the day of the trip.. My flight is at 4am. Since this is my first ever international trip, I didn't want to take any risk and I reached the airport around 12.30am. I had no clue what was waiting for me.
 
 Lugging my 13kg rucksack on my back and the 7kg laptop bag on the front, like a tired husband carrying a toddler, I walked to the check-in counter, full of enthusiasm and excitement, waving my blank passport to the staff at the counter.
 
@@ -45,7 +45,7 @@ I was like .... .... ....
 
 > "Especially because your passport does not have any stamps"
 
-That hurt ☹️ I would have a stamp if you guys let me go through.. 🤷‍♂️
+That hurt ☹️ I would have a stamp if you guys let me go through.. 🤷
 
 ### The Research Begins
 
